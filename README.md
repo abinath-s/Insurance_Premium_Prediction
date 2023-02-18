@@ -12,3 +12,4 @@ To View the Deployed Application, click on the link given below : Insurance Prem
 NOTE - It takes few seconds to load the web
 https://insurance-premium-prediction-model.onrender.com/
 
+[Insurance Deployment Video.webm](https://user-images.githubusercontent.com/85839342/219870832-fa78643a-7e91-49d7-ab5d-74821dbfa4b2.webm)

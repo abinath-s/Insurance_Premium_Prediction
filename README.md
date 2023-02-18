@@ -9,3 +9,6 @@ As being a Data and ML enthusiast I have tried many different projects related t
 ## 🎬 Deployed Application 🎬
 
 To View the Deployed Application, click on the link given below : Insurance Premium Prediction Web App -
+NOTE - It takes few seconds to load the web
+https://insurance-premium-prediction-model.onrender.com/
+
